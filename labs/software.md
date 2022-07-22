@@ -30,7 +30,7 @@
 | Genesys | 2020 | 
 | GRANTA EduPack 2021 R1 | 21.1.0.0 | 
 | HEC-HMS | 4.5 | 
-| HEC-RAS | 5.0.7.0 | 
+| HEC-RAS | 6.2 | 
 | HY-8 | 7.60.1 | 
 | LabVIEW 2016 (32- bit) | 16.0.193 | 
 | LabVIEW 2019 SP1 (32- bit) | 19.10.49152 | 
