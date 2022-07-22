@@ -21,6 +21,7 @@
 | CSiBridge 2016 64-bit | 18.1.1.1 | 
 | Cygwin XLaunch |  | 	
 | Cygwin64 Terminal	 |  | 
+| CulvertMaster CONNECT Edition | | 
 | DEEPSOIL  | 7.0.23 | 
 | Eclipse Java IDE | 2022-06 (4.24.0) | 
 | EPA SWMM | 5.1 | 
