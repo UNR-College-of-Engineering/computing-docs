@@ -50,7 +50,7 @@
 | OpenSees | 2.5.0 | 
 | OptSim | 2019.09 | 
 | PondPack CONNECT Edition | 10.02.00.01 | 
-| ProVAL | 3.61.36 | 
+| ProVAL | 3.61.36 | CEE738
 | Python Launcher | 3.8.7072.0 | 
 | R |  4.0.2 | 
 | Revit | 2022 | 
@@ -67,7 +67,8 @@
 | SQLite | 3.8.6 | 
 | StormCAD CONNECT Edition | 10.3.4.53 | 
 | Tangix TesterPRO | 8.3.3.2131 | 
-| Unity | 2018.4.15f1 | 
+| Unity | 2018.4.15f1 |
+| Veta | 7.0.51 | CEE738
 | Visual Studio Code | 1.45.1 | 
 | VLC Media Player | 3.0.17 | 
 | VMWare Workstation Player 16 | 16.2.3 | 
