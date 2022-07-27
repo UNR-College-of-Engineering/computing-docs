@@ -15,7 +15,7 @@
 | Autodesk Storm and Sanitary Analysis 2021 | 13.3.206.0 | 
 | Autodesk Subassembly Composer 2021 | 13.3.854.0 | 
 | BioWin 5.3 | 5.3.9.0 | 
-| Blender | 2.83.3 | 
+| Blender | 3.2 | 
 | Cadence  | 17.4-2019 | 
 | CHEMCAD 8  | 8.1.0.16649 | 
 | CSiBridge 2016 64-bit | 18.1.1.1 | 
@@ -68,7 +68,7 @@
 | SQLite | 3.8.6 | 
 | StormCAD CONNECT Edition | 10.3.4.53 | 
 | Tangix TesterPRO | 8.3.3.2131 | 
-| Unity | 2018.4.15f1 |
+| Unity | 2021.3.6f1 |
 | Veta | 7.0.51 | CEE738
 | Visual Studio Code | 1.45.1 | 
 | VLC Media Player | 3.0.17 | 
