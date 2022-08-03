@@ -22,6 +22,8 @@ You can also schedule work with SLURM using the sbatch command on the node.
 
 We can not grant sudo privileges to users on the node since this node is accessible via Open OnDemand and integrated with the cluster. By having the node a part of the SLURM cluster, students can tap into additional resources that we are adding to CC in the near future.
 
+Petrone users home directories are on the petrone node. They are exported as an nfs share in case we want to mount them in the future. 
+
 ---
 
 ## TensorRT: 
