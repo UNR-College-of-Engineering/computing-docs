@@ -6,6 +6,16 @@ ssh $netid@cc-head.engr.unr.edu
 ssh seylabi
 ```
 
+To enable passwordless SSH from cc-head to seylabi, run the following commands:
+```bash
+mkdir ~/.ssh
+chmod 700 ~/.ssh
+ssh-keygen -t ed25519 -N "" -C "cc" -f /home/${USER}/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub > ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
+```
+
+
 Seylabi users have their own node on the College Cluster (CC). The hostname is seylabi.engr.unr.edu. 
 You can SSH to it using your netid or start an interactive desktop session using Open OnDemand, 
 which is hosted on the College's head node. The OnDemand URL is https://cc.engr.unr.edu. 
