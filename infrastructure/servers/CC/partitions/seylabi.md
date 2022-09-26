@@ -60,7 +60,7 @@ echo $USER #$USER is equal to your netid
 singularity build --sandbox -f $USER-svl-bionic svl-bionic.def
 ```
 
-### Using Seism VLAB
+### Using Seismo VLAB
 
 #### Interactive Use
 
