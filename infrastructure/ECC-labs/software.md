@@ -10,10 +10,10 @@
 | ANSYS | 2022 R2 | ME751 
 | Arduino | 1.8.19 | 
 | ASPEN Academic Suite v14 | 14.7.30.57810 | 
-| AutoCAD 2021 | 24.0.47.0 | 
-| Autodesk Civil 3D 2021 | 13.3.854.0 | 
-| Autodesk Storm and Sanitary Analysis 2021 | 13.3.206.0 | 
-| Autodesk Subassembly Composer 2021 | 13.3.854.0 | 
+| AutoCAD 2023 | 2023 | 
+| Autodesk Civil 3D 2023 | 2023 | 
+| Autodesk Storm and Sanitary Analysis 2023 | 2023 | 
+| Autodesk Subassembly Composer 2023 | 2023 | 
 | BioWin 5.3 | 5.3.9.0 | 
 | Blender | 3.2 | 
 | Cadence  | 17.4-2019 | 
@@ -54,7 +54,7 @@
 | ProVAL | 3.61.36 | CEE738
 | Python Launcher | 3.8.7072.0 | 
 | R |  4.0.2 | 
-| Revit | 2022 | 
+| Revit | 2023 | 
 | RSoft CAD Layout | 2019.09 | 
 | RStudio | 2022.07.0 | 
 | SAP2000 18 64-bit | 18.1.1.1 | 
@@ -68,7 +68,7 @@
 | SQLite | 3.8.6 | 
 | StormCAD CONNECT Edition | 10.3.4.53 | 
 | Tangix TesterPRO | 8.3.3.2131 | 
-| Unity | 2021.3.6f1 |
+| Unity | 2022.1.10 |
 | Veta | 7.0.51 | CEE738
 | Visual Studio Code | 1.45.1 | 
 | VLC Media Player | 3.0.17 | 
