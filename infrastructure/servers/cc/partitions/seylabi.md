@@ -4,7 +4,7 @@
 
 ```bash
 ssh $netid@cc-head.engr.unr.edu
-ssh seylabi
+ssh seylabi # or seylabi.10g
 ```
 
 To enable passwordless SSH from cc-head to seylabi, run the following commands:
@@ -57,7 +57,7 @@ you need. You can build a container with the commands below.
 ssh seylabi
 cd /scratch #fakeroot can not be built on NFS shares, IE your homedir.
 echo $USER #$USER is equal to your netid
-singularity build --sandbox -f $USER-svl-bionic svl-bionic.def
+singularity build --sandbox -f $USER-svl-bionic /apps/svl/svl-bionic.def
 ```
 
 ### Using Seismo VLAB
@@ -65,7 +65,7 @@ singularity build --sandbox -f $USER-svl-bionic svl-bionic.def
 #### Interactive Use
 
 ```bash
-singularity shell --writable -f /scratch/$USER-svl-bionic
+singularity shell --writable -f --bind /apps:/apps,/data:/data /scratch/$USER-svl-bionic
 ```
 
 You should see the following prompt:
@@ -83,7 +83,7 @@ cd J13-DY_Elastic_3D_Half_Space_PML8_Hexa8
 #You need to patch the J13 sample for it to run properly on more than 16 cores.
 #The MUMPS solver has to be changed to PETSC. The patch sets the number of cores
 #to 32.
-patch -p1 < /opt/j13.patch
+patch -p1 < /apps/svl/j13.patch
 python3 J13-DY_Elastic_3D_Half_Space_PML8_Hexa8.py
 mpirun --allow-run-as-root -np 32 /opt/SVL-1.0-stable/02-Run_Process/SeismoVLAB.exe -dir '/opt/SVL-1.0-stable/03-Validations/02-Performance/J13-DY_Elastic_3D_Half_Space_PML8_Hexa8/Partition' -file 'Debugging_J13.1.$.json'
 ```
@@ -111,6 +111,7 @@ WORKING_DIR="/opt/SVL-1.0-stable/03-Validations/02-Performance"
 
 #One core to unzip J13-DY_Elastic_3D_Half_Space_PML8_Hexa8.zip
 singularity exec -f --writable --pwd ${WORKING_DIR} \
+  --bind /apps:/apps,/data:/data \
   ${CONTAINER} \
   unzip -fo J13-DY_Elastic_3D_Half_Space_PML8_Hexa8.zip
 
@@ -119,11 +120,13 @@ WORKING_DIR="/opt/SVL-1.0-stable/03-Validations/02-Performance/J13-DY_Elastic_3D
 
 #Patch J13
 singularity exec -f --writable --pwd ${WORKING_DIR} \
+  --bind /apps:/apps,/data:/data \
   ${CONTAINER} \
   patch -p1 < /apps/svl/j13.patch
 
 #32 cores to process the .py file. Save the output to parse
 output=$(singularity exec -f --writable --pwd ${WORKING_DIR} \
+  --bind /apps:/apps,/data:/data \
   ${CONTAINER} \
   python3 J13-DY_Elastic_3D_Half_Space_PML8_Hexa8.py)
 
@@ -133,6 +136,7 @@ echo $mpi_cmd
 
 #Run the MPI Command
 singularity exec -f --writable --pwd ${WORKING_DIR} \
+  --bind /apps:/apps,/data:/data \
   /${CONTAINER} \
   $mpi_cmd
 
