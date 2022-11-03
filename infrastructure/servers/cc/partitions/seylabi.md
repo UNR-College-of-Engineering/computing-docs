@@ -164,7 +164,7 @@ cmake --build . --config Release --target OpenSeesMP --parallel 64
 cmake --build . --config Release --target OpenSees --parallel 64
 ```
 
-### Deprecated native RHEL8 compilations
+### Deprecated Native RHEL8 Compilation
 ```bash
 module load mpi
 cd ~/
