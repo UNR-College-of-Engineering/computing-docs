@@ -144,6 +144,27 @@ singularity exec -f --writable --pwd ${WORKING_DIR} \
 
 ## OpenSees Build
 
+### Ubuntu 22.04 Singularity Container Compilation
+
+```bash
+singularity shell /apps/opensees/opensees-ubuntu-jammy.sif
+
+cd ~/
+cp -r /opt/OpenSees ~/
+cd OpenSees/build
+rm -rf ~/OpenSees/build/*
+conan install .. --build missing
+cmake .. -DMUMPS_DIR=/opt/mumps/build -DOPENMPI=TRUE -DSCALAPACK_LIBRARIES="/usr/lib/x86_64-linux-gnu/libmkl_blacs_openmpi_lp64.so;/usr/lib/x86_64-linux-gnu/libscalapack-openmpi.so.2.1"
+
+#OpenSeesSP
+cmake --build . --config Release --target OpenSeesSP --parallel 64
+#OpenSeesMP
+cmake --build . --config Release --target OpenSeesMP --parallel 64
+#OpenSees
+cmake --build . --config Release --target OpenSees --parallel 64
+```
+
+### Deprecated native RHEL8 compilations
 ```bash
 module load mpi
 cd ~/
