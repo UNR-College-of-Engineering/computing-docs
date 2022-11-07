@@ -2,4 +2,4 @@
 
 
 1. From Apple menu, click "System Preferences" > "Sharing"
-![macOS System Preferences](images/mac-remote1.hpj)
+![macOS System Preferences](images/mac-remote-1.jpg)
