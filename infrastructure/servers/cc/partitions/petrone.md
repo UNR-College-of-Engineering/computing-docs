@@ -9,7 +9,7 @@ Account: petrone
 
 Partition: petrone
 
-Number of Cores: <Up to 64> # We need to adjust the application to support up to 128.
+Number of Cores: <Up to 128>
 
 Enable VirtualGL: Uncheck # node doesn't have an OpenGL capable card.
 
