@@ -147,10 +147,13 @@ singularity exec -f --writable --pwd ${WORKING_DIR} \
 ### Ubuntu 22.04 Singularity Container Compilation
 
 ```bash
+cp /apps/opensees/mods.diff ~/
 singularity shell /apps/opensees/opensees-ubuntu-jammy.sif
 
 cd ~/
 cp -r /opt/OpenSees ~/
+cd OpenSees/
+patch < ../mods.diff
 cd OpenSees/build
 rm -rf ~/OpenSees/build/*
 conan install .. --build missing
