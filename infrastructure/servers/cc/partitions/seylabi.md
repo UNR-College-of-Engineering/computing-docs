@@ -154,7 +154,7 @@ cd ~/
 cp -r /opt/OpenSees ~/
 cd OpenSees/
 patch < ../mods.diff
-cd OpenSees/build
+cd build/
 rm -rf ~/OpenSees/build/*
 conan install .. --build missing
 cmake .. -DMUMPS_DIR=/opt/mumps/build -DOPENMPI=TRUE -DSCALAPACK_LIBRARIES="/usr/lib/x86_64-linux-gnu/libmkl_blacs_openmpi_lp64.so;/usr/lib/x86_64-linux-gnu/libscalapack-openmpi.so.2.1"
