@@ -1,6 +1,6 @@
 # Activating ChemCAD
 
-When first running ChemCAD you will be prompted with "No License Found."
+When first running ChemCAD you will be prompted with "CHEMCAD cannot detect a valid license."
 
 1. To activate the license, first click on "Setup"
 ![Step 1](/guides/remote/images/chemcad-1.png)
