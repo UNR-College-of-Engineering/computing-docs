@@ -8,9 +8,8 @@ UNR has an upcoming license server change for the SAP 2000 18 program. Therefore
 LMHOST.INI </a>
 ![Step 1](guides/remote/assets/images/SAP2000-1-New.png)
 2. Click Keep and Save the file as "LMHOST.INI". The file will download usually in Downloads. You may move the file to Desktop for easy access (click and drag from Downloads onto Desktop).
-![Step 2](/guides/remote/assets/images/SAP2000-3-2.PNG)
 3. Open folder explorer
-![Step 3](/guides/remote/assets/images/SAP2000-4.PNG)
+![Step 3](/guides/remote/assets/images/SAP2000-4-NEW.PNG)
 4. Get to the directory: This PC > Local Disk (C:) > Program Files > Computers and Structures > SAP2000 18
 ![Step 4](/guides/remote/assets/images/SAP2000-5-1.PNG)
 ![Step 4](/guides/remote/assets/images/SAP2000-5-2.PNG)
