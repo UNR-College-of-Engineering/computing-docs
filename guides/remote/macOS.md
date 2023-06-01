@@ -15,13 +15,13 @@
 1. From Apple menu, click System Preferences.
 2. Click the Sharing icon.
 
-![macOS System Preferences](images/mac-remote-1.jpg)
+![macOS System Preferences](/guides/remote/assets/images/mac-remote-1.jpg)
 
 3. Check the option Screen Sharing. To the right of the Screen Sharing text, the status icon should now be green status.
     - Note the address of the computer listed in the text in the status area. It will be something  like vnc://172.20.195.86
     - In the Allow access for section, select All users or switch to Only these users and click the + button to add the users.
 
-![macOS Allow access](images/mac-remote-2.jpg)
+![macOS Allow access](/guides/remote/assets/images/mac-remote-2.jpg)
 
 ## On the other Mac:
 
@@ -29,12 +29,12 @@
 
 1. From the top menu bar, select the Go menu and Connect to Server.
 
-![macOS Connect to Server](images/mac-remote-3.jpg)
+![macOS Connect to Server](/guides/remote/assets/images/mac-remote-3.jpg)
 
 2. Enter the address of the office Mac computer to be accessed remotely using vnc:// as the prefix as in: Example: vnc://172.20.195.86
     - You can click the + plus button to save the connection.
 
-![macOS Connect](images/mac-remote-4.jpg)
+![macOS Connect](/guides/remote/assets/images/mac-remote-4.jpg)
 
 3. Click Connect.
 4. Enter an account name and password for the remote Mac to login and use it.
