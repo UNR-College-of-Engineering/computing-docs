@@ -19,8 +19,8 @@ Right click the "Raw" button and click "Save link as"
 ![Step 4](/guides/remote/assets/images/SAP2000-5-4.PNG)
 ![Step 4](/guides/remote/assets/images/SAP2000-5-5.PNG)
 5. Drag and Drop the LMHOST.INI file from step 2 into the SAP2000 18 folder
-![Step 5](/guides/remote/assets/images/SAP2000-6-1.PNG)
-![Step 5](/guides/remote/assets/images/SAP2000-6-2.PNG)
+![Step 5](/guides/remote/assets/images/SAP2000-6-1-New.PNG)
+![Step 5](/guides/remote/assets/images/SAP2000-6-2-New.PNG)
 6. Overwrite old LMHOST.INI file by clicking "OK". Click "Replace the file in the destination". Click "Continue" and "Yes".
 7. SAP2000 18 should now be updated to the newest license server
 
