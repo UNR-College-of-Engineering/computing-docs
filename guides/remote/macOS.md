@@ -44,3 +44,5 @@
 **Some other details that might need to be configured include:**
 - power settings so that the on campus machine does not go to sleep
 - we might need to set a static IP for your work machine so that it does not get a new IP from DHCP if rebooted
+
+If you have any questions or problems, please email ehelp@engr.unr.edu for troubleshooting.

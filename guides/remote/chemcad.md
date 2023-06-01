@@ -16,3 +16,5 @@ When first running ChemCAD you will be prompted with "CHEMCAD cannot detect a va
 
 5. A similar window should appear signifying success. Click "Continue" to finish activation and begin using ChemCAD
 ![Step 5](/guides/remote/assets/images/chemcad-5.png)
+
+If you have any questions or problems, please email ehelp@engr.unr.edu for troubleshooting.
