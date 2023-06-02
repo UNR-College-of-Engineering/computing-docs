@@ -6,7 +6,7 @@ UNR has an upcoming license server change for the SAP 2000 24 program. Therefore
 
 If you do not have SAP 2000 24, CSiBridge 2016, and/or ETABS 20 installed, contact ehelp@engr.unr.edu to be put on an access control list.
 
-If you are on the access control list, please visit [SAP and CSiBridge](https://www.engr.unr.edu/software/sap/) to install SAP 2000 24 and CSiBridge 2016. For ETABS 20, please visit [ETABS 20]()
+If you are on the access control list, please visit [SAP and CSiBridge](https://www.engr.unr.edu/software/sap/) to install SAP 2000 24 and CSiBridge 2016. For ETABS 20, please visit [ETABS 20](https://www.engr.unr.edu/software/etabs/)
 
 **Note: You will need administrative access on your device to update the license server.**
 
