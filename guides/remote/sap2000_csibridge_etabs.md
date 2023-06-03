@@ -1,6 +1,6 @@
 # Updating SAP 2000 24, CSiBridge 2016, and ETABS 20
 
-UNR has an upcoming license server change for the SAP 2000 24 program. Therefore, we have to manually update the license server beforehand.
+UNR has an upcoming license server change for the programs listed above. Therefore, we have to manually update the license server beforehand.
 
 **Note: If you have SAP 2000 18 and/or ETABS 18, those applications are no longer updated by their respective companies, which means you will have to install SAP 2000 24 and ETABS 20 instead.**
 
