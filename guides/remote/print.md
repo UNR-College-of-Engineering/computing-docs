@@ -29,7 +29,7 @@ This guide will show you how to set up a connection between a printer and a comp
 6. You should receive a print out similar to what is shown below. Locate the IP Address. It should say "IPv4 Address" or something similar. The numbers should resemble below.
 ![Step 6](/guides/remote/assets/images/print10.jpeg)
 
-## Linux Setup
+## Linux Setup (Do not follow if you are using Windows 10/11)
 
 1. Search Up "Printers" in your Linux Applications search. A window like below should pop up.
 ![Step 1](/guides/remote/assets/images/print11.png)
