@@ -12,7 +12,7 @@ If you are on the access control list, please visit [SAP and CSiBridge](https://
 
 1. Download the new INI file: [Download File](https://github.com/UNR-College-of-Engineering/computing-docs/blob/main/guides/remote/assets/files/LMHOST.INI) and click Download
 ![Step 1](/guides/remote/assets/images/SAP2000-download.png)
-2. Click Keep and Save the file as "LMHOST". The file will download usually in Downloads. You may move the file to Desktop for convenience with steps shown below.
+2. Click Keep and Save the file as "LMHOST.INI". The file will download usually in Downloads. You may move the file to Desktop for convenience with steps shown below.
 ![Step 2](/guides/remote/assets/images/SAP2000-3-2-New.png)
 3. Open folder explorer
 ![Step 3](/guides/remote/assets/images/SAP2000-4-NEW.PNG)
