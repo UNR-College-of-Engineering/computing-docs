@@ -10,7 +10,7 @@ If you are on the access control list, please visit [SAP and CSiBridge](https://
 
 **Note: You will need administrative access on your device to update the license server.**
 
-1. Download the new INI file: <a href="/guides/remote/assets/files/LMHOST.INI" download>Click to Download</a>
+1. Download the new INI file: [Download File](https://github.com/UNR-College-of-Engineering/computing-docs/blob/main/guides/remote/assets/files/LMHOST.INI)
 1. Click Keep and Save the file as "LMHOST". The file will download usually in Downloads. You may move the file to Desktop for convenience with steps shown below.
 ![Step 2](/guides/remote/assets/images/SAP2000-3-2-New.png)
 1. Open folder explorer
