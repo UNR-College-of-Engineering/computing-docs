@@ -64,7 +64,6 @@
 | R |  4.2.2 | | :heavy_check_mark:
 | RabbitMQ | 3.12.1
 | Revit | 2023 |
-| RSoft CAD Layout | 2019.09 |
 | RStudio | 2022.07.0 |
 | SAP2000 24 64-bit | 24.1.0 |
 | SEL SynchroWAVe Event | 1.8.4.9 |
