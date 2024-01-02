@@ -1,4 +1,4 @@
-# Lab Software For Fall 2023
+# Lab Software For Spring 2024
 
 |     Name     |    Version    |
 |--------------|---------------|
