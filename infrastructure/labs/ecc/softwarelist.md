@@ -22,6 +22,7 @@
 | Cadence | 17.4.0 |
 | CHEMCAD 8  | 8.1.0.16649 |
 | CSiBridge 2016 64-bit | 18.1.1.1 |
+| CST Studio Suite Teaching w/ Antenna Magus | 2024 | 
 | Cygwin XLaunch | 3.4.3 | | :heavy_check_mark:
 | Cygwin64 Terminal | 3.4.3 | | :heavy_check_mark:
 | CulvertMaster CONNECT Edition | 10.3.0.3 |
