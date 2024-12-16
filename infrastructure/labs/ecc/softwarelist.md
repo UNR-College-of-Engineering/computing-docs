@@ -56,6 +56,8 @@
 | Matlab | R2024b |
 | MGI Solution Explorer | 2.4.0.28 |
 | MicroStation CONNECT Edition | 10.16.03.011 |
+| Microsoft 365 |
+| Microsoft Project |
 | Modulus | 6.1 |
 | Motion Genesis | Kane 6.4 |
 | Mozilla FireFox | 114.0.2 |  
