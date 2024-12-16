@@ -1,4 +1,4 @@
-# ECC Labs Software List For Winter 2024 and Spring 2025
+# PE002 Lab Software List For Winter 2024 and Spring 2025
 
 |     Name     |    Version    |
 |--------------|---------------|
