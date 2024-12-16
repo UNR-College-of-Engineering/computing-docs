@@ -95,5 +95,5 @@
 | WaterGEMS CONNECT Edition | 10.3.5.5 |
 | WinPlot | 2019.09 |
 
-*Maple 2024 is out, but we are trying to work out with the licensing to ensure that it will work.
+*Maple 2024 is out, but we are trying to work out with the licensing to ensure that it will work.  
 **SolidWorks 2025 is out, and we are currently negotiating in getting our servers to have those new licenses to support for the next semester. If we get it, all computers will have SolidWorks 2025.
