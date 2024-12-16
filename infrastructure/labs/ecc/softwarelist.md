@@ -11,10 +11,10 @@
 | Advanced Design System | 2020 Update 2 | !Newest Version is 2023! | :grey_question:
 | Anaconda3 | 2.4.2 | | :heavy_check_mark:
 | ANSYS | 2023 R1 | ME751 | :heavy_check_mark:
-| Arduino | 2.1.0 | | :heavy_check_mark:
+| Arduino IDE | 2.1.0 | | :heavy_check_mark:
 | ASPEN Academic Suite v14 | 14.7.30.57810 |
-| AutoCAD 2023 | 24.2.114.0 |
-| Autodesk Civil 3D 2023 | 2023 |
+| AutoCAD 2024 | 24.2.114.0 |
+| Autodesk Civil 3D 2024 | 2023 |
 | Autodesk Storm and Sanitary Analysis 2023 | 2023 |
 | Autodesk Subassembly Composer 2023 | 2023 |
 | BioWin 6.2 | 6.2.9.3398 | HASP | :heavy_check_mark:
@@ -22,7 +22,6 @@
 | Cadence | 17.4.0 |
 | CHEMCAD 8  | 8.1.0.16649 |
 | CSiBridge 2016 64-bit | 18.1.1.1 |
-| CST Studio Suite Teaching w/ Antenna Magus | 2024 | 
 | Cygwin XLaunch | 3.4.3 | | :heavy_check_mark:
 | Cygwin64 Terminal | 3.4.3 | | :heavy_check_mark:
 | CulvertMaster CONNECT Edition | 10.3.0.3 |
@@ -34,7 +33,10 @@
 | ETABS 20 | 20.3.0 |
 | FlowMaster CONNECT Edition | 10.3.0.3 |
 | Genesys | 2020 |
-| Google chrome | 114.0.5735 |
+| Git | 2.41.0.3 |
+| GitHub Desktop | 
+| Google Chrome | 114.0.5735 |
+| Google Earth Pro | 7.3.6.9796 |
 | GRANTA EduPack 2021 R1 | 21.1.0.0 |
 | HEC-HMS | 4.10 | | :heavy_check_mark:
 | HEC-RAS | 6.4.1 | | :heavy_check_mark:
@@ -43,15 +45,19 @@
 | LabVIEW 2016 (32- bit) | 16.0.193 |
 | LabVIEW 2019 SP1 (32- bit) | 19.10.49152 |
 | LabVIEW 2020 (32- bit) | 20.00.49152 |
+| LabVIEW 2024 (64 - bit) |
 | LaserMOD | 2019.09 |
 | LEGO MINDSTORMS NXT x64 Driver | 2.1
+| LockDown Browser | 
 | Logisim | 2.7.1 | | :heavy_check_mark:
-| Maple 2021 | 2021.2 | | :heavy_check_mark:
+| Maple 2021* | 2021.2 | | :heavy_check_mark:
 | Mathcad Prime | 7.0.0.0 |
-| Matlab | R2022a |
+| Mathcad Prime | 9.0.0.0 |
+| Matlab | R2024b |
 | MGI Solution Explorer | 2.4.0.28 |
 | MicroStation CONNECT Edition | 10.16.03.011 |
 | Modulus | 6.1 |
+| Motion Genesis | Kane 6.4 |
 | Mozilla FireFox | 114.0.2 |  
 | NI MAX | 20.00.49152 |
 | NI Multisim | 14.20.49152 |
@@ -64,17 +70,17 @@
 | Python Launcher | 3.10.9 | | :heavy_check_mark:
 | R |  4.2.2 | | :heavy_check_mark:
 | RabbitMQ | 3.12.1
-| Revit | 2023 |
+| Revit | 2024 |
 | RStudio | 2022.07.0 |
 | SAP2000 24 64-bit | 24.1.0 |
 | SEL SynchroWAVe Event | 1.8.4.9 |
 | SewerCAD CONNECT Edition | 10.3.4.53 |
 | Sim4LifeLight | 5.0.1.4765 |
-| SOLIDWORKS 2023 SP02.1 | 31.2.1.1 | ME350, ME351
-| SOLIDWORKS eDrawings 2023 | 30.30.0022 |
-| SOLIDWORKS 2022 SP02.1 | 31.2.1.1 | ME350, ME351
-| SOLIDWORKS eDrawings 2022 | 30.30.0022 |
+| Simulator GOS Education 21 | 
+| SOLIDWORKS 2024** | 31.2.1.1 | ME350, ME351
+| SOLIDWORKS eDrawings 2024* | 30.30.0022 |
 | Sonnet | 15.53 |
+| STK 12 and STK Viewer 12 |
 | SQLite | 3.40.1 | | :heavy_check_mark:
 | StormCAD CONNECT Edition | 10.3.4.53 |
 | Tangix TesterPRO | 8.3.3.2131 | :grey_question:
@@ -85,4 +91,7 @@
 | VMWare Workstation Player 16 | 16.2.5 | | :heavy_check_mark:
 | WaterCAD CONNECT Edition | 10.3.5.5 |
 | WaterGEMS CONNECT Edition | 10.3.5.5 |
-| WinPlot | 2019.09 |  
+| WinPlot | 2019.09 |
+
+*Maple 2024 is out, but we are trying to work out with the licensing to ensure that it will work.
+**SolidWorks 2025 is out, and we are currently negotiating in getting our servers to have those new licenses to support for the next semester. If we get it, all computers will have SolidWorks 2025.
