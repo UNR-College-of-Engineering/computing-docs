@@ -1,4 +1,4 @@
-# ECC Labs Software List For Winter 2024 and Spring 2025
+# Sandorf and Angst Controls Labs Software List For Winter 2024 and Spring 2025
 
 |     Name     |    Version    |
 |--------------|---------------|
