@@ -14,7 +14,7 @@
 | Arduino IDE | 2.1.0 | | 
 | ASPEN Academic Suite v14 | 14.7.30.57810 |
 | AutoCAD 2024 | 24.2.114.0 |
-| Autodesk Civil 3D 2024 | 2023 |
+| Autodesk Civil 3D 2024 | 2024 |
 | Autodesk Storm and Sanitary Analysis 2023 | 2023 |
 | Autodesk Subassembly Composer 2023 | 2023 |
 | BioWin 6.2 | 6.2.9.3398 | HASP | 
