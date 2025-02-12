@@ -1,5 +1,5 @@
 ## Documentation for University of Nevada Computing Cluster
 |---- Table of Contents ----|
 |---------------------------|
-|[Basic Linux Skills](./../basic_linux)|
-|[Creating A job](./../jobs/creation.md)|
+|[Basic Linux Skills](./basic_linux)|
+|[Creating A job](./jobs/creation.md)|
