@@ -1,5 +1,7 @@
 # ECC Labs Software List For Winter 2024 and Spring 2025
 
+Note: The versions may be off due to constant updates, but the software should be on the computers
+
 |     Name     |    Version    |
 |--------------|---------------|
 | 3D-Move Analysis | 2.1 |
