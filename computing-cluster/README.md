@@ -1,4 +1,4 @@
-## Documentation for University of Nevada Computing Cluster
+## CC FAQs
 |---- Table of Contents ----|
 |---------------------------|
 |[Basic Linux Skills](./basic_linux)|
