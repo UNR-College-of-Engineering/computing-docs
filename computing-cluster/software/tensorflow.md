@@ -11,7 +11,7 @@ python3 -m venv <virtual_environment_name>
 source <virtual_environment_name>/bin/activate
 ```
 
-### testing gpu usage
+### testing gpu visibility
 ```bash
 import tensorflow as tf
 print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
