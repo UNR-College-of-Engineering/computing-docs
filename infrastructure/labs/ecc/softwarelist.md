@@ -58,7 +58,7 @@ Note: The versions may be off due to constant updates, but the software should b
 | Matlab | R2024b |
 | MGI Solution Explorer | 2.4.0.28 |
 | MicroStation CONNECT Edition | 10.16.03.011 |
-| Microsoft 365 |
+| Microsoft 365 (Office 365) |
 | Microsoft Project |
 | Modulus | 6.1 |
 | Motion Genesis | Kane 6.4 |
