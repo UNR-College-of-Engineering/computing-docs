@@ -1,4 +1,4 @@
-# ECC Labs Software List For Winter 2024 and Spring 2025
+# ECC Labs Software List For Fall 2025 and Winter 2026
 
 Note: The versions may be off due to constant updates, but the software should be on the computers
 
@@ -70,11 +70,13 @@ Note: The versions may be off due to constant updates, but the software should b
 | OpenSees | 3.3.0 | | 
 | OptSim | 2019.09 |
 | PondPack CONNECT Edition | 10.02.00.01 |
+| Primavera P6 Visualizer |
 | ProVAL | 3.61.36 | CEE738
 | Python Launcher | 3.10.9 | | 
 | R |  4.2.2 | | 
 | RabbitMQ | 3.12.1
 | Revit | 2024 |
+| RocScience Academic Suite |
 | RStudio | 2022.07.0 |
 | SAP2000 24 64-bit | 24.1.0 |
 | SEL SynchroWAVe Event | 1.8.4.9 |
@@ -87,6 +89,7 @@ Note: The versions may be off due to constant updates, but the software should b
 | STK 12 and STK Viewer 12 |
 | SQLite | 3.40.1 | | 
 | StormCAD CONNECT Edition | 10.3.4.53 |
+| TransCAD 10 |
 | Tangix TesterPRO | 8.3.3.2131 | 
 | Unity | 2022.2.1f1 | | 
 | Veta | 8.0.45.0 | CEE738 | 
