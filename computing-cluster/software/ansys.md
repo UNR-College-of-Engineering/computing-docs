@@ -1,6 +1,8 @@
 ## Licensing
 
-With the new licensing you will need to login to your ansys account on the cluster. I have found the easiest way to do this is with an access token. Do step 1 from this link: https://ansyshelp.ansys.com/public/account/secured?returnurl=/Views/Secured/CSP/v000/en/gateway_ag/ag/configuring_shared_web_licensing.html
+With the new licensing you will need to login to your ansys account on the cluster. I have found the easiest way to do this is with an access token. Do step 1 from this link: https://ansyshelp.ansys.com/public/account/secured?returnurl=/Views/Secured/CSP/v000/en/gateway_ag/ag/configuring_shared_web_licensing.html<img width="1218" height="334" alt="image" src="https://github.com/user-attachments/assets/958cdaad-09f3-43a1-9845-7969effe84a2" />
+
+
 
 You can either download the json token or copy the string. don't worry when after you click create and save that the create box doesn't go away.
 
