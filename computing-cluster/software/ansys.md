@@ -17,4 +17,4 @@ Use the following command on the cluster:
 
 ### Current Version of Ansys: 2025R1
 
-Lauching Ansys Workbench: `/apps/ansys/2025R1/v251/Framework/bin/Linux64/runwb2`
+Lauching Ansys Workbench: `runwb2`
