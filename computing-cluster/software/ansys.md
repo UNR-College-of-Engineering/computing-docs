@@ -15,6 +15,6 @@ Use the following command on the cluster:
 /apps/ansys/2024R1/v241/licensingclient/linx64/LicensingSettings account login --token "TOKEN STRING"
 
 
-### Current Version of Ansys: 2025R1
+## Current Version of Ansys: 2025R1
 
 Lauching Ansys Workbench: `runwb2`
