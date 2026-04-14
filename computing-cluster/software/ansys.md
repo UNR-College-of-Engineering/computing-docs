@@ -17,6 +17,6 @@ LicensingSettings account login --input "path/to/token.json"
 LicensingSettings account login --token "TOKEN STRING"
 
 
-## Current Version of Ansys: 2025R1
+## Current Version of Ansys: 2026R1
 
 Lauching Ansys Workbench: `runwb2`
