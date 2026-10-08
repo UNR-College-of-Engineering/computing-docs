@@ -8,6 +8,7 @@ You can either download the json token or copy the string. don't worry when afte
 
 Use the following commands on the cluster:
 
+module use /apps/modulefiles/tcl
 module load ansys
 
 LicensingSettings account login --input "path/to/token.json"
