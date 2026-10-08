@@ -7,12 +7,12 @@ With the new licensing you will need to login to your ansys account on the clust
 You can either download the json token or copy the string. don't worry when after you click create and save that the create box doesn't go away.
 
 Use the following commands on the cluster:
-
+'''
 module use /apps/modulefiles/tcl  
 module load ansys
 
 LicensingSettings account login --input "path/to/token.json"
-
+'''
 -- OR --
 
 LicensingSettings account login --token "TOKEN STRING"
